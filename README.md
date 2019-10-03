@@ -1,2 +1,2 @@
 # PracticeHomeWork
-This is the homework due 10/2
+This is the homework that is due 10/2
